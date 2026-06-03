@@ -1,0 +1,21 @@
+#first {
+    color: blue;
+}
+.second {
+    color: rgb(43, 43, 43);
+    font-weight: 50;
+}
+span {
+    color: cyan
+}
+#second {
+    color: magenta
+}
+#third {
+    color:yellow
+}
+#fourth {
+    font-weight: 30;
+    font-size: 10px;
+    color: grey
+}
