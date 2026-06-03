@@ -1,0 +1,26 @@
+#quadro {
+    width: 100px;
+    height: 100px;
+    background-color:rgb(223, 0, 0);
+    text-align: center;
+    line-height: 590%;
+    color: whitesmoke;
+    
+    
+}
+#quadro2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(206, 206, 0);
+    text-align: center;
+    line-height: 590%;
+    color: whitesmoke;
+}
+#quadro3 {
+    width: 100px;
+    height: 100px;
+    background-color:green;
+    text-align: center;
+    line-height: 590%;
+    color: whitesmoke;
+}
