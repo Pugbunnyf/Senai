@@ -1,0 +1,19 @@
+#cabeça {
+    color: white;
+    background-color: rgb(26, 70, 212);
+    font-weight:600;
+    font-size: 32px;
+}
+main {
+    background-color: white;
+}
+
+#aura {
+    color: rgb(98, 179, 255);
+    background-color: rgb(26, 70, 212);
+    font-weight:300;
+    font-size: 16px;
+}
+span {
+    color: red;
+}
