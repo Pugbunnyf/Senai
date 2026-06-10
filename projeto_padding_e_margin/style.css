@@ -1,0 +1,25 @@
+#fundo {
+    background-color: #1A1A2E;
+}
+#textogame {
+    color: #00D4FF;
+}
+#padding1 {
+    padding: 30px;
+    background-color: #1565C0;
+    color: white;
+}
+#margin {
+    margin: 30px;
+    background-color: #2E7D32;
+    color: white;
+}
+#marginpadding {
+    margin: 20px;
+    padding: 20px;
+    background-color: #E65100;
+    color: white;
+}
+span {
+    color: #da4c00;
+}

@@ -1,0 +1,21 @@
+#fundo {
+    background-color: #353535;
+    padding: 20px;
+    border-radius: 20px;
+    width: 260px;
+}
+
+h1 {
+    font-size: 16px;
+    color: #00FFEA;
+}
+
+p {
+    font-size: 12px;
+    color: white;
+}
+
+span {
+    font-weight: 700;
+    color: #00FFEA;
+}

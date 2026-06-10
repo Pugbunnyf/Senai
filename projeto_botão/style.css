@@ -1,0 +1,161 @@
+#botao1 {
+    width:121px ;
+    height:35px ;
+    background-color: white;
+    border: ;
+}
+
+#botao1:hover {
+    width: 121px;
+    height: 35px;
+    background-color: #000000;
+    border: ;
+}
+
+#texto1 {
+    
+}
+#botao2 {
+    width: 118px;
+    height: 45px;
+    background-color:#80E8FF ;
+    border: ;
+}
+#botao2:hover {
+    width: 118px;
+    height: 45px;
+    background-color: #9EEDFF;
+    border: ;
+}
+
+#texto2 {
+
+}
+#botao3 {
+    width: 112px;
+    height: 45px;
+    background-color: #41FF6A;
+    border: ;
+}
+#botao3:hover {
+    width: 112px;
+    height: 45px;
+    background-color: #8BFFA4;
+    border: ;
+}
+
+#texto3 {
+
+}
+#botao4 {
+    width: 123px;
+    height: 35px;
+    background-color:#FF00C8 ;
+    border: ;
+}
+#botao4:hover {
+    width: 123px;
+    height: 35px;
+    background-color: white;
+    border: ;
+}
+
+#texto4 {
+
+}
+#botao5 {
+    width: 128px;
+    height: 35px;
+    background-color: white;
+    border: ;
+}
+#botao5:hover {
+    width: 128px;
+    height: 35px;
+    background-color: #FF0000;
+    border: ;
+}
+
+#texto5 {
+
+}
+#botao6 {
+    width: 123px;
+    height: 35px;
+    background-color: white;
+    border: ;
+}
+#botao6:hover {
+    width: 123px;
+    height: 35px;
+    background-color: #525252;
+    border: ;
+}
+
+#texto6 {
+
+}
+#botao7 {
+    width: 124px;
+    height: 35px;
+    background-color: white;
+    border: ;
+}
+#botao7:hover {
+    width: 124px;
+    height: 35px;
+    background-color: white;
+    border: ;
+}
+
+#texto7 {
+
+}
+#botao8 {
+    width: 129px;
+    height: 35px;
+    background-color: #FAC02C;
+    border: ;
+}
+#botao8:hover {
+    width: 129px;
+    height: 35px;
+    background-color: white;
+    border: ;
+}
+
+#texto8 {
+
+}
+#botao9 {
+    width: 123px;
+    height: 35px;
+    background-color: #15FF00;
+    border: ;
+}
+#botao9:hover {
+    width: 123px;
+    height: 35px;
+    background-color: #005810;
+    border: ;
+}
+
+#texto9 {
+
+}
+#botao10 {
+    width:  128px;
+    height: 35px;
+    background-color: white;
+    border: ;
+}
+#botao10:hover {
+    width: 128px;
+    height: 35px;
+    background-color: #640069;
+    border: ;
+}
+
+#texto10 {
+
+}
