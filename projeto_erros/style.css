@@ -1,0 +1,44 @@
+.container {
+    position: relative;
+    width: 750px;
+}
+.icone {
+    position: absolute;
+}
+ #x01 {
+    left: 67px;
+    right: 20px;
+    bottom: 280px;
+ }
+ #x02 {
+    left: 210px;
+    top: 50px;
+ }
+ #x03 {
+    left: 385px;
+    top: 190px;
+ }
+ #x04 {
+    right: 190px;
+    top: 45px;
+ }
+ #x05 {
+    left: 265px;
+    bottom: 100px;
+ }
+ #x06 {
+    left: 200px;
+    top: 120px;
+ }
+ #x07 {
+    right: 110px;
+    bottom: 170px;
+ }
+ #x08 {
+    right: 65px;
+    top: 100px;
+ }
+ #x09 {
+    right: 60px;
+    bottom: 10px;
+ }
