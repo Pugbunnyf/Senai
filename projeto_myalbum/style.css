@@ -1,0 +1,18 @@
+body {
+    background-color: #5937D7;
+    text-align: center;
+    color: white;
+}
+#album {
+    background-image: url(./assets/img_10.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 550px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 30px 0px;
+
+}

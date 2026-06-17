@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #adadad;
+    align-items: center;
+    padding: 30px 80px;
+}
+.links a{
+    color: black;
+    text-decoration: none
+}
+.hero {
+    background-color: #767676;
+    height: 580px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+footer {
+    background-color: #adadad;
+    text-align: center;
+    padding: 20px 0px;
+}
