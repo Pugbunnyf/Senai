@@ -1,0 +1,178 @@
+/* Aplica box-sizing globalmente */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Container centralizado */
+.container {
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #002fff; /* Vermelho característico da marca */
+    color: white;
+    padding: 15px 0;
+    margin-bottom: 20px;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+header h1 {
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 12px;
+    text-transform: capitalize;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Botão */
+button {
+    background-color: #FFCC00;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    height: 40px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #ffe70f;
+}
+
+/* Conteúdo Principal */
+main {
+    padding: 20px 0;
+    width: 100%;
+}
+
+.banner {
+    background-color: #f8f8f8;
+    padding: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+    border-radius: 8px;
+}
+
+.banner h2 {
+    color: #E60014;
+    margin-bottom: 15px;
+}
+
+.banner p {
+    max-width: 700px;
+    margin: 0 auto 25px;
+    color: #333;
+}
+
+.produtos h3 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.grade-produtos {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: white;
+    width: 300px;
+    padding: 25px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.card h4 {
+    color: #E60014;
+    margin-bottom: 12px;
+}
+
+.link-produto {
+    display: inline-block;
+    margin-top: 15px;
+    color: #0066CC;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link-produto:hover {
+    text-decoration: underline;
+}
+
+/* Rodapé */
+footer {
+    background-color: #222;
+    color: white;
+    padding: 40px 0 20px;
+    margin-top: 50px;
+}
+
+footer .container {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-bottom: 25px;
+}
+
+footer h5, footer h6 {
+    color: #FFCC00;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+footer a {
+    display: block;
+    color: #ccc;
+    text-decoration: none;
+    margin: 6px 0;
+}
+
+footer a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+.copyright {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #444;
+    color: #999;
+    font-size: 14px;
+}
+
+#tung {
+    width: 100%;
+}
