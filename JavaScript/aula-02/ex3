@@ -1,0 +1,6 @@
+let nome = 'Caetano';
+let idade = 15;
+
+console.log('Ola, ' + nome + '!');
+
+console.log(`Ola, ${nome}! Você tem ${idade} anos.`);
