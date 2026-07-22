@@ -1,6 +1,6 @@
-let Mês = 10;
+let Mes = 10;
 
-switch (Mês) {
+switch (Mes) {
   case 1:
     console.log("Janeiro");
     break;
